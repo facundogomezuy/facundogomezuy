@@ -6,7 +6,13 @@
 
 💻 Working as Help Desk Level 1 at Synapsis BPO
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+❤️ I love learning new things
+
+<code><img height="20" alt="Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+<code><img height="20" alt="Bash" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
+<code><img height="20" alt="Networking" src="https://raw.githubusercontent.com/github/explore/main/topics/network/network.png"></code>
+<code><img height="20" alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" alt="Kali Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/kali-linux/kali-linux.png"></code>
+<code><img height="20" alt="Nmap" src="https://raw.githubusercontent.com/github/explore/main/topics/nmap/nmap.png"></code>
+<code><img height="20" alt="pfSense" src="https://avatars.githubusercontent.com/u/1113950?s=200&v=4"></code>
 
