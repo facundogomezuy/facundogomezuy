@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Montevideo-Uruguay-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9f"/>
-  <img src="https://img.shields.io/badge/🎯_Focus-Cybersecurity-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9f"/>
-  <a href="https://app.hackthebox.com/users/1083889"><img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117"/></a>
+  <img src="https://img.shields.io/badge/📍_Montevideo-Uruguay-0d1117?style=for-the-badge&labelColor=0d1117&color=1a7f37"/>
+  <img src="https://img.shields.io/badge/🎯_Focus-Cybersecurity-0d1117?style=for-the-badge&labelColor=0d1117&color=1a7f37"/>
+  <a href="https://app.hackthebox.com/users/1083889"><img src="https://img.shields.io/badge/HackTheBox-Profile-1a2332?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117"/></a>
 </p>
 
 ---
@@ -42,14 +42,14 @@
   <img src="https://img.shields.io/badge/Fortinet-FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Burp_Suite-Web_Testing-FF6633?style=flat-square&logo=burpsuite&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Nmap-Recon-4682B4?style=flat-square&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Gobuster-Enumeration-00ff9f?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/HackTheBox-Labs-9FEF00?style=flat-square&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Gobuster-Enumeration-1a7f37?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/HackTheBox-Labs-1a2332?style=flat-square&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117"/>
 </p>
 
 ### 🖧 `> ls ./infra-and-networking`
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-Admin-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Linux-Admin-30363d?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Arch%20%2F%20BlackArch-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=0d1117"/>
@@ -63,8 +63,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Regex-grep%20%7C%20sed%20%7C%20awk-00ff9f?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Regex-grep%20%7C%20sed%20%7C%20awk-1a7f37?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/JavaScript-30363d?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117"/>
 </p>
@@ -124,7 +124,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=facundogomezuy&label=Profile%20views&color=00ff9f&style=flat-square&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=facundogomezuy&label=Profile%20views&color=1a7f37&style=flat-square&labelColor=0d1117" />
 </p>
 
 <p align="center">
