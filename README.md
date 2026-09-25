@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+aspiring+SOC+analyst;Monitoring+with+Wazuh+%26+Zabbix;Recon+%26+enumeration+on+Linux;Building+Belphegor+%F0%9F%9B%A0%EF%B8%8F;Always+learning%2C+always+hunting+%F0%9F%94%8E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+cybersecurity+enthusiast;Blue+team+by+day%2C+red+team+by+night+%F0%9F%8C%99;Monitoring+with+Wazuh+%26+Zabbix;Recon+%26+enumeration+on+Linux;Building+Belphegor+%F0%9F%9B%A0%EF%B8%8F;Always+learning%2C+always+hunting+%F0%9F%94%8E" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Montevideo-Uruguay-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9f"/>
-  <img src="https://img.shields.io/badge/🎯_Target-SOC_Analyst-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9f"/>
+  <img src="https://img.shields.io/badge/🎯_Focus-Cybersecurity-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9f"/>
   <a href="https://app.hackthebox.com/users/1083889"><img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117"/></a>
 </p>
 
@@ -26,7 +26,7 @@
   name      : Facundo Gómez
   role      : Help Desk @ Synapsis Tech BPO  (since 2024)
   studying  : Infrastructure Analyst @ Universidad ORT Uruguay  (2nd year)
-  goal      : breaking into Blue Team / SOC  🛡️
+  goal      : a career in cybersecurity — defense, offense & everything in between  🛡️⚔️
   daily     : Wazuh agents · Zabbix dashboards · FortiGate logs & VPN troubleshooting · Active Directory
   after-hrs : HackTheBox · CTFs · building recon tooling on BlackArch
   motto     : "Learn it, break it, monitor it."
@@ -119,7 +119,7 @@
 - [x] Wazuh deployment (work + home lab)
 - [x] Ship first security tool → **Belphegor**
 - [ ] Root more HackTheBox machines (Medium tier next)
-- [ ] Land a **SOC Analyst** role 🎯
+- [ ] Land my first **cybersecurity** role 🎯
 
 ---
 
